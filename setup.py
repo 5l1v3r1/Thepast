@@ -4,9 +4,9 @@ setup(
     version='1.0',
     keywords=('binary','encode','decode'),
     description='encode*Decode Binary Bits',
-    author='Benelhaj_younes',
-    author_email='younes.brovi@gmail.com',
-    url='https://github.com/doophack/ThePast',
+    author='r2dr0dn',
+    author_email='r2dr0dn@pm.me',
+    url='https://github.com/r2dr0dn/ThePast',
     license='GNU',
     packages=find_packages(),
     classfiers=[
