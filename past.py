@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # date : 19/04/2019
-# Created By Benelhaj_younes
+# Created By r2dr0dn
 
 class past():
  def encodeSTR(self,text): # Convert string to binary
